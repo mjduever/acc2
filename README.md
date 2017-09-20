@@ -1,2 +1,2 @@
-# promimity
+# proximity
 From the beginning
