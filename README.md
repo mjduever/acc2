@@ -1,2 +1,2 @@
-# acc2
+# promimity
 From the beginning
